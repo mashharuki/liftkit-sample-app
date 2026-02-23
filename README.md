@@ -47,3 +47,5 @@ To learn more about how to use liftkit please visit our docs [here](https://locr
 [css-url]: https://developer.mozilla.org/en-US/docs/Web/CSS
 [shadcn-shield]: https://img.shields.io/badge/shadcn-registry-%23EDE9FE.svg?style=for-the-badge&logo=vercel&logoColor=black
 [shadcn-url]: https://ui.shadcn.com/docs/registry
+[公式サイト](https://www.chainlift.io/liftkit)
+[GitHub](https://github.com/Chainlift/liftkit)

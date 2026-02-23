@@ -1,6 +1,10 @@
 import Image from "next/image";
-import styles from "./page.module.css";
+import styles from "./css/page.module.css";
 
+/**
+ * Homeコンポーネント
+ * @returns 
+ */
 export default function Home() {
   return (
     <div className={styles.page}>
